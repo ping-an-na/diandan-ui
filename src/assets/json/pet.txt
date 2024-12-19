@@ -1,0 +1,16 @@
+{
+  "name": "皮卡丘",
+
+  "sex": [ // 性别概率  以 雄性 雌性 未知 为顺序标准 字典码 0，1，2
+    0.5,
+    0.5
+  ],
+  "bodyType": "中等偏小", // 体型
+  "id": "025", // id
+  "capture": 0.248, // 捕捉概率
+  "nature": "electricity", // 属性
+  "skill": "jn001" // 技能组
+  "IncubationCycle": "257000" // 孵化时间
+  BasicExperience:'82' // 基础经验
+
+}

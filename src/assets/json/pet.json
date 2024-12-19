@@ -1,0 +1,4838 @@
+{
+  "jl1": {
+    "name": "妙蛙种子",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "jinhuaxing": "",
+    "jinhuaxingLv": "",
+    "tuihuaxing": "",
+    "tuihuaxingLv": "",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl2": {
+    "name": "妙蛙草",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl3": {
+    "name": "妙蛙花",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl4": {
+    "name": "小火龙",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl5": {
+    "name": "火恐龙",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl6": {
+    "name": "喷火龙",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl7": {
+    "name": "杰尼龟",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl8": {
+    "name": "卡咪龟",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl9": {
+    "name": "水箭龟",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl10": {
+    "name": "绿毛虫",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl11": {
+    "name": "铁甲蛹",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl12": {
+    "name": "巴大蝶",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl13": {
+    "name": "独角虫",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl14": {
+    "name": "铁壳蛹",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl15": {
+    "name": "大针蜂",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl16": {
+    "name": "波波",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl17": {
+    "name": "比比鸟",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl18": {
+    "name": "大比鸟",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl19": {
+    "name": "小拉达",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl20": {
+    "name": "拉达",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl21": {
+    "name": "烈雀",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl22": {
+    "name": "大嘴雀",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl23": {
+    "name": "阿柏蛇",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl24": {
+    "name": "阿柏怪",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl25": {
+    "name": "皮卡丘",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl26": {
+    "name": "雷丘",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl27": {
+    "name": "穿山鼠",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl28": {
+    "name": "穿山王",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl29": {
+    "name": "尼多兰",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl30": {
+    "name": "尼多娜",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl31": {
+    "name": "尼多后",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl32": {
+    "name": "尼多朗",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl33": {
+    "name": "尼多力诺",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl34": {
+    "name": "尼多王",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl35": {
+    "name": "皮皮",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl36": {
+    "name": "皮可西",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl37": {
+    "name": "六尾",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl38": {
+    "name": "九尾",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl39": {
+    "name": "胖丁",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl40": {
+    "name": "胖可丁",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl41": {
+    "name": "超音蝠",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl42": {
+    "name": "大嘴蝠",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl43": {
+    "name": "走路草",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl44": {
+    "name": "臭臭花",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl45": {
+    "name": "霸王花",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl46": {
+    "name": "派拉斯",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl47": {
+    "name": "派拉斯特",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl48": {
+    "name": "毛球",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl49": {
+    "name": "摩鲁蛾",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl50": {
+    "name": "地鼠",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl51": {
+    "name": "三地鼠",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl52": {
+    "name": "喵喵",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl53": {
+    "name": "猫老大",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl54": {
+    "name": "可达鸭",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl55": {
+    "name": "哥达鸭",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl56": {
+    "name": "猴怪",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl57": {
+    "name": "火暴猴",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl58": {
+    "name": "卡蒂狗",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl59": {
+    "name": "风速狗",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl60": {
+    "name": "蚊香蝌蚪",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl61": {
+    "name": "蚊香君",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl62": {
+    "name": "蚊香泳士",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl63": {
+    "name": "凯西",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl64": {
+    "name": "勇基拉",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl65": {
+    "name": "胡地",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl66": {
+    "name": "腕力",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl67": {
+    "name": "豪力",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl68": {
+    "name": "怪力",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl69": {
+    "name": "喇叭芽",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl70": {
+    "name": "口呆花",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl71": {
+    "name": "大食花",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl72": {
+    "name": "玛瑙水母",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl73": {
+    "name": "毒刺水母",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl74": {
+    "name": "小拳石",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl75": {
+    "name": "隆隆石",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl76": {
+    "name": "隆隆岩",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl77": {
+    "name": "小火马",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl78": {
+    "name": "烈焰马",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl79": {
+    "name": "呆呆兽",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl80": {
+    "name": "呆壳兽",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl81": {
+    "name": "小磁怪",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl82": {
+    "name": "三合一磁怪",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl83": {
+    "name": "大葱鸭",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl84": {
+    "name": "嘟嘟",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl85": {
+    "name": "嘟嘟利",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl86": {
+    "name": "小海狮",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl87": {
+    "name": "白海狮",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl88": {
+    "name": "臭泥",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl89": {
+    "name": "臭臭泥",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl90": {
+    "name": "大舌贝",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl91": {
+    "name": "刺甲贝",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl92": {
+    "name": "鬼斯",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl93": {
+    "name": "鬼斯通",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl94": {
+    "name": "耿鬼",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl95": {
+    "name": "大岩蛇",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl96": {
+    "name": "催眠貘",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl97": {
+    "name": "引梦貘人",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl98": {
+    "name": "大钳蟹",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl99": {
+    "name": "巨钳蟹",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl100": {
+    "name": "霹雳电球",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl101": {
+    "name": "顽皮雷弹",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl102": {
+    "name": "蛋蛋",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl103": {
+    "name": "椰蛋树",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl104": {
+    "name": "卡拉卡拉",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl105": {
+    "name": "嘎啦嘎啦",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl106": {
+    "name": "飞腿郎",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl107": {
+    "name": "快拳郎",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl108": {
+    "name": "大舌头",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl109": {
+    "name": "瓦斯弹",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl110": {
+    "name": "双弹瓦斯",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl111": {
+    "name": "独角犀牛",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl112": {
+    "name": "钻角犀兽",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl113": {
+    "name": "吉利蛋",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl114": {
+    "name": "蔓藤怪",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl115": {
+    "name": "袋兽",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl116": {
+    "name": "墨海马",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl117": {
+    "name": "海刺龙",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl118": {
+    "name": "角金鱼",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl119": {
+    "name": "金鱼王",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl120": {
+    "name": "海星星",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl121": {
+    "name": "宝石海星",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl122": {
+    "name": "魔墙人偶",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl123": {
+    "name": "飞天螳螂",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl124": {
+    "name": "迷唇姐",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl125": {
+    "name": "电击兽",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl126": {
+    "name": "鸭嘴火兽",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl127": {
+    "name": "凯罗斯",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl128": {
+    "name": "肯泰罗",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl129": {
+    "name": "鲤鱼王",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl130": {
+    "name": "暴鲤龙",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl131": {
+    "name": "拉普拉斯",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl132": {
+    "name": "百变怪",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl133": {
+    "name": "伊布",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl134": {
+    "name": "水伊布",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl135": {
+    "name": "雷伊布",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl136": {
+    "name": "火伊布",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl137": {
+    "name": "多边兽",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl138": {
+    "name": "菊石兽",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl139": {
+    "name": "多刺菊石兽",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl140": {
+    "name": "化石盔",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl141": {
+    "name": "镰刀盔",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl142": {
+    "name": "化石翼龙",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl143": {
+    "name": "卡比兽",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl144": {
+    "name": "急冻鸟",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl145": {
+    "name": "闪电鸟",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl146": {
+    "name": "火焰鸟",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl147": {
+    "name": "迷你龙",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl148": {
+    "name": "哈克龙",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl149": {
+    "name": "快龙",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl150": {
+    "name": "超梦",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  },
+  "jl151": {
+    "name": "梦幻",
+    "sex": [
+      0.5,
+      0.5
+    ],
+    "bodyType": "中等偏小",
+    "id": "025",
+    "capture": 0.248,
+    "nature": "electricity",
+    "skill": "jn001",
+    "IncubationCycle": "257000",
+    "BasicExperience": "82",
+    "zhongzuzhi": [
+      "35",
+      "55",
+      "40",
+      "90",
+      "50",
+      "50"
+    ],
+    "CarryGoods": [
+      {
+        "name": "电器球",
+        "number": 0.05
+      },
+      {
+        "name": "果树",
+        "number": 0.95
+      }
+    ]
+  }
+}

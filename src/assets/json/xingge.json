@@ -1,0 +1,127 @@
+{
+  "xg1": {
+    "name": "努力",
+    "push": "",
+    "pull": ""
+  },
+  "xg2": {
+    "name": "孤僻",
+    "push": "gj",
+    "pull": "fy"
+  },
+  "xg3": {
+    "name": "勇敢",
+    "push": "gj",
+    "pull": "sd"
+  },
+  "xg4": {
+    "name": "固执",
+    "push": "gj",
+    "pull": "tg"
+  },
+  "xg5": {
+    "name": "顽皮",
+    "push": "gj",
+    "pull": "tf"
+  },
+  "xg6": {
+    "name": "大胆",
+    "push": "fy",
+    "pull": "gj"
+  },
+  "xg7": {
+    "name": "坦率",
+    "push": "",
+    "pull": ""
+  },
+  "xg8": {
+    "name": "悠闲",
+    "push": "fy",
+    "pull": "sd"
+  },
+  "xg9": {
+    "name": "淘气",
+    "push": "fy",
+    "pull": "tg"
+  },
+  "xg10": {
+    "name": "乐天",
+    "push": "fy",
+    "pull": "tf"
+  },
+  "xg11": {
+    "name": "胆小",
+    "push": "sd",
+    "pull": "gj"
+  },
+  "xg12": {
+    "name": "急躁",
+    "push": "sd",
+    "pull": "fy"
+  },
+  "xg13": {
+    "name": "认真",
+    "push": "",
+    "pull": ""
+  },
+  "xg14": {
+    "name": "爽朗",
+    "push": "sd",
+    "pull": "tg"
+  },
+  "xg15": {
+    "name": "天真",
+    "push": "sd",
+    "pull": "tf"
+  },
+  "xg16": {
+    "name": "内敛",
+    "push": "tg",
+    "pull": "gj"
+  },
+  "xg17": {
+    "name": "慢热",
+    "push": "tg",
+    "pull": "fy"
+  },
+  "xg18": {
+    "name": "冷静",
+    "push": "tg",
+    "pull": "sd"
+  },
+  "xg19": {
+    "name": "害羞",
+    "push": "",
+    "pull": ""
+  },
+  "xg20": {
+    "name": "马虎",
+    "push": "tg",
+    "pull": "tf"
+  },
+  "xg21": {
+    "name": "温和",
+    "push": "tf",
+    "pull": "gj"
+  },
+  "xg22": {
+    "name": "温顺",
+    "push": "tf",
+    "pull": "fy"
+  },
+  "xg23": {
+    "name": "自大",
+    "push": "tf",
+    "pull": "sd"
+  },
+  "xg24": {
+    "name": "慎重",
+    "push": "tf",
+    "pull": "tg"
+  },
+  "xg25": {
+    "name": "浮躁",
+    "push": "",
+    "pull": ""
+  }
+}

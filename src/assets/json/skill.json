@@ -1,0 +1,43 @@
+{
+  "Info_name": "",
+  "Info_nature": "属性",
+  "Info_type": "0 是默认 1 是定制技能",
+  "Info_oneselfHarm": "对自己造成的伤害 ,10（数字） 是固定数值 10H （数字加H）是威力",
+  "Info_enemy": "对敌人造成的伤害 ,10（数字） 是固定数值 10H （数字加H）是威力",
+  "Info_enemyType": "伤害类型 0 是物理 1 是特殊 2变化",
+  "Info_amount": "攻击的次数 区间",
+  "Info_hitRate": "命中率",
+  "Info_PP": "技能使用次数",
+  "jn1": {
+    "name": "拍击",
+    "nature": "common",
+    "enemy": "40",
+    "enemyType": "1",
+    "hitRate": "100",
+    "PP": "35"
+  },
+  "jn2": {
+    "name": "啃咬",
+    "nature": "common",
+    "enemy": "40",
+    "enemyType": "1",
+    "hitRate": "100",
+    "PP": "35"
+  },
+  "jn3": {
+    "name": "撞击",
+    "nature": "common",
+    "enemy": "40",
+    "enemyType": "1",
+    "hitRate": "100",
+    "PP": "35"
+  },
+  "jn4": {
+    "name": "叫声",
+    "nature": "common",
+    "enemy": "40",
+    "enemyType": "1",
+    "hitRate": "100",
+    "PP": "35"
+  }
+}
