@@ -12,7 +12,7 @@ const headerNvSheng = ref([
   '020', '021', '022', '023', '024', '025', '026', '027', '028', '029',
 ])
 let homeNumQuan = ref(0)
-let flowChart = ref(1) // 流程 id 默认 0
+let flowChart = ref(0) // 流程 id 默认 0
 let xuanrufeizi = ref(0) // 流程 id 默认 0
 let jiageType = ref(['1小时', '2小时', '3小时',])
 let nvren = ref([] as any[])
