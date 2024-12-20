@@ -49,7 +49,8 @@ function queryOk(item: any) {
 }
 
 function back_(item: any) {
-  flowChart.value = flowChart.value - 1
+  if (flowChart.value > 0)flowChart.value = flowChart.value - 1
+
   homeNumQuan.value = 0
   xuanrufeizi.value = 0
   nvren.value = []
