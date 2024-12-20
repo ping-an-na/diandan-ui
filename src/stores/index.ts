@@ -1,6 +1,6 @@
 // store/index.ts
 import {defineStore, storeToRefs} from 'pinia'
-import {formatDate, formatDateTime} from "@/utils/index.js";
+// import {formatDate, formatDateTime} from "@/utils/index.js";
 // 1. 定义容器、导出容器
 // 参数1：容器的ID，必须是唯一的，后面Pinia会把所有的容器挂载到根容器
 // 参数2：一些选项对象，也就是state、getter和action
@@ -121,21 +121,6 @@ export const useMainStore = defineStore('main', {
         buttonUseFun(e: any) {
             console.log(e)
             this.buttonUse = e
-        },
-        pushTnfoTxt(text: any) {
-            let date = formatDateTime(new Date())
-            if (this.infoTxt.length > 99) {
-                this.infoTxt.shift()
-            }
-            this.infoTxt.push([date, text])
-            setTimeout(() => {
-                let infoScroll = document.querySelector('.infoScroll') || null;
-                if (infoScroll) {
-                    console.log()
-                    infoScroll.scrollTop = 90000
-                }
-            })
-
         },
     }
 })

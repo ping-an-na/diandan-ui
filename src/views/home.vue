@@ -15,14 +15,14 @@ let homeNumQuan = ref(0)
 let flowChart = ref(1) // 流程 id 默认 0
 let xuanrufeizi = ref(0) // 流程 id 默认 0
 let jiageType = ref(['1小时', '2小时', '3小时',])
-let nvren = ref([])
+let nvren = ref([] as any[])
 let linshijiage = ref({name: "1小时", num: 100})
 
 /**
  * 打开弹窗
  * @param item
  */
-function homeNumClick(item) {
+function homeNumClick(item: any) {
   homeNumQuan.value = item
 }
 
@@ -30,7 +30,7 @@ function homeNumClick(item) {
  * 点击关闭
  * @param item
  */
-function guanbi(item) {
+function guanbi(item: any) {
   if (item === 1) {
     homeNumQuan.value = 0
 
@@ -43,12 +43,12 @@ function guanbi(item) {
  * 点击确认
  * @param item
  */
-function queryOk(item) {
+function queryOk(item: any) {
   flowChart.value = 1
   homeNumQuan.value = 0
 }
 
-function back_(item) {
+function back_(item: any) {
   flowChart.value = flowChart.value - 1
   homeNumQuan.value = 0
   xuanrufeizi.value = 0
@@ -56,12 +56,12 @@ function back_(item) {
   linshijiage.value = {name: "1小时", num: 100}
 }
 
-function xuanru(item) {
+function xuanru(item: any) {
   xuanrufeizi.value = item
 }
 
 
-function jiageTypeClick(item) {
+function jiageTypeClick(item: any) {
   xuanrufeizi.value = item
   if (item === '1小时') {
     linshijiage.value = {name: item, num: 100}
@@ -73,13 +73,15 @@ function jiageTypeClick(item) {
 }
 
 
-function queryOk2(item) {
+function queryOk2(item: any) {
+  console.log(item)
   let nvrennnn = {
     xuanrufeizi: xuanrufeizi.value,
     name: linshijiage.value.name,
     num: linshijiage.value.num
   }
   nvren.value.push(nvrennnn)
+
   linshijiage.value = {name: "1小时", num: 100}
   console.log(nvren.value)
   xuanrufeizi.value = 0
@@ -178,8 +180,7 @@ function queryOk2(item) {
                   <div style="font-size: 22px;margin: 0 100px">
                     价格:{{ (linshijiage.num).toFixed(2) }}
                   </div>
-                  <div
-                      @click="queryOk2()"
+                  <div @click="queryOk2('')"
                       style="    cursor: pointer;height: 60px;width: 120px;display: flex;justify-content: center;align-items:center;color: #FFF;background: #201e1d;margin-right:40px;border-radius: 6px">
                     确定
                   </div>
@@ -234,7 +235,7 @@ function queryOk2(item) {
                     </div>
 
                     <div style="flex: 1;height: 100%;display: flex;justify-content: center;align-items: center;">
-                      <div>{{ item.name}} {{ (item.num).toFixed(2)}}元</div>
+                      <div>{{ item.name }} {{ (item.num).toFixed(2) }}元</div>
                     </div>
                   </div>
                 </div>
